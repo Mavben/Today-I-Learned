@@ -27,5 +27,3 @@ WORA(Write Once Run Anywhere), 즉 한번 작성하면 어디에서든 동작한
 #### Java 프로그램의 실행환경
 
 https://catch-me-java.tistory.com/11?category=438116
-
-image.png
