@@ -4,10 +4,6 @@ Spring에서 컨트롤러를 지정해주기 위한 어노테이션은 @Controll
 @RestController(Restuful 웹서비스의 컨트롤러)와는 HTTP Response Body가 생성되는 방식이 다르다.
 
 
-
-![[Pasted image 20231105150254.png]]
-
-
 전통적인 spring MVC 컨트롤러 : @Controller -> view 반환하기 위해 사용
 
 1. Client는 URI 형식으로 웹 서비스에 요청을 보낸다.
